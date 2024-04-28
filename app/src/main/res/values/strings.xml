@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Medicine App</string>
+    <string name="username">User Name</string>
+    <string name="msgMissingRequiredFields">Please fill in the required fields and try again.</string>
+    <string name="password">Password</string>
+    <string name="signInText">SIGN IN</string>
+    <string name="welcome">Welcome</string>
+    <string name="no_data_found">No medicine add</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="unknown_error">Unknown error happened please try again</string>
+    <string name="generic_error">Unexpected error happened, try again</string>
+    <string name="dose">Dose: %1$s</string>
+    <string name="strength">Strength: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="your_medicine_list">Your Medicine List</string>
+    <string name="medicine_not_found">Medicine not found !</string>
+    <string name="medicine_details">Medicine Details</string>
+
+</resources>
